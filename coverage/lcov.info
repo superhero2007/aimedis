@@ -1,5 +1,5 @@
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/config.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/config.js
 FNF:0
 FNH:0
 DA:8,6
@@ -9,7 +9,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/index.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/index.jsx
 FNF:0
 FNH:0
 DA:22,1
@@ -29,7 +29,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/actions/app.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/actions/app.js
 FN:18,(anonymous_0)
 FN:19,(anonymous_1)
 FNF:2
@@ -54,7 +54,7 @@ BRF:8
 BRH:7
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/actions/index.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/actions/index.js
 FNF:0
 FNH:0
 LF:0
@@ -63,7 +63,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/actions/user.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/actions/user.js
 FN:14,(anonymous_0)
 FN:15,(anonymous_1)
 FNF:2
@@ -79,7 +79,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Alert.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Alert.jsx
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -131,7 +131,7 @@ BRF:22
 BRH:22
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Avatar.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Avatar.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -146,7 +146,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/BlogItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/BlogItem.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -160,7 +160,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/BlogList.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/BlogList.jsx
 FN:7,(anonymous_0)
 FN:26,(anonymous_1)
 FN:30,(anonymous_2)
@@ -255,7 +255,7 @@ BRF:16
 BRH:16
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/CareerItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/CareerItem.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -269,7 +269,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Carousel.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Carousel.jsx
 FN:5,(anonymous_0)
 FN:36,(anonymous_1)
 FN:43,(anonymous_2)
@@ -311,7 +311,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/CustomVideo.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/CustomVideo.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -326,7 +326,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Feature.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Feature.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -339,7 +339,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Footer.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Footer.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -352,7 +352,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/GetEarlyAccess.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/GetEarlyAccess.jsx
 FN:8,(anonymous_0)
 FN:15,(anonymous_1)
 FN:25,(anonymous_2)
@@ -389,7 +389,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/GroupToggle.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/GroupToggle.jsx
 FN:6,(anonymous_0)
 FN:129,(anonymous_1)
 FN:166,(anonymous_2)
@@ -426,7 +426,7 @@ BRF:6
 BRH:6
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/GroupToggleItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/GroupToggleItem.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -444,7 +444,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Header.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Header.jsx
 FN:16,(anonymous_0)
 FN:21,(anonymous_1)
 FN:26,(anonymous_2)
@@ -497,7 +497,7 @@ BRF:16
 BRH:16
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/InputBox.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/InputBox.jsx
 FN:9,(anonymous_0)
 FN:16,(anonymous_1)
 FN:26,(anonymous_2)
@@ -553,7 +553,7 @@ BRF:14
 BRH:14
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/InstitutionsItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/InstitutionsItem.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -575,7 +575,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Loader.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Loader.jsx
 FN:4,(anonymous_0)
 FNF:1
 FNH:1
@@ -595,7 +595,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Location.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Location.jsx
 FN:181,(anonymous_0)
 FNF:1
 FNH:0
@@ -610,7 +610,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Logo.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Logo.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -625,7 +625,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Notification.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Notification.jsx
 FN:5,(anonymous_0)
 FN:12,(anonymous_1)
 FN:16,(anonymous_2)
@@ -652,7 +652,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/OfferItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/OfferItem.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -674,7 +674,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Overview.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Overview.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -693,7 +693,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/OverviewList.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/OverviewList.jsx
 FN:7,(anonymous_0)
 FN:16,(anonymous_1)
 FN:24,(anonymous_2)
@@ -729,7 +729,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/ProductCarousel.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/ProductCarousel.jsx
 FN:6,(anonymous_0)
 FN:58,(anonymous_1)
 FN:65,(anonymous_2)
@@ -791,7 +791,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/ProductItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/ProductItem.jsx
 FN:7,(anonymous_0)
 FN:14,(anonymous_1)
 FN:19,(anonymous_2)
@@ -832,7 +832,7 @@ BRF:4
 BRH:4
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/StaticItem.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/StaticItem.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -846,7 +846,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Title.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Title.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -860,7 +860,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/Transition.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/Transition.jsx
 FN:5,(anonymous_0)
 FN:7,(anonymous_1)
 FNF:2
@@ -878,7 +878,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/components/VideoMask.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/components/VideoMask.jsx
 FN:5,(anonymous_0)
 FN:12,(anonymous_1)
 FN:17,(anonymous_2)
@@ -908,7 +908,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/constants/index.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/constants/index.js
 FNF:0
 FNH:0
 DA:12,11
@@ -919,7 +919,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/containers/App.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/containers/App.jsx
 FN:56,(anonymous_0)
 FN:70,(anonymous_1)
 FNF:2
@@ -943,7 +943,7 @@ BRF:3
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/containers/SystemAlerts.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/containers/SystemAlerts.jsx
 FN:10,(anonymous_0)
 FN:21,(anonymous_1)
 FN:26,(anonymous_2)
@@ -1002,7 +1002,7 @@ BRF:7
 BRH:7
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/modules/client.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/modules/client.js
 FN:10,(anonymous_0)
 FN:22,parseError
 FN:37,request
@@ -1073,7 +1073,7 @@ BRF:24
 BRH:24
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/modules/helpers.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/modules/helpers.js
 FN:12,datasetToObject
 FN:14,(anonymous_1)
 FN:17,(anonymous_2)
@@ -1095,7 +1095,7 @@ BRF:1
 BRH:1
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/modules/history.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/modules/history.js
 FNF:0
 FNH:0
 DA:5,3
@@ -1106,7 +1106,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/About.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/About.jsx
 FN:10,(anonymous_0)
 FN:11,(anonymous_1)
 FNF:2
@@ -1123,7 +1123,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Blog.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Blog.jsx
 FN:7,(anonymous_0)
 FNF:1
 FNH:1
@@ -1135,7 +1135,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/BlogDetail.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/BlogDetail.jsx
 FN:8,(anonymous_0)
 FNF:1
 FNH:1
@@ -1150,7 +1150,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Career.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Career.jsx
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -1162,7 +1162,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/CareerDetail.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/CareerDetail.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1177,7 +1177,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Home.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Home.jsx
 FN:17,(anonymous_0)
 FNF:1
 FNH:1
@@ -1190,7 +1190,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Institutions.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Institutions.jsx
 FN:9,(anonymous_0)
 FN:14,(anonymous_1)
 FN:18,(anonymous_2)
@@ -1227,7 +1227,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Investor.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Investor.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1239,7 +1239,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/NotFound.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/NotFound.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1252,7 +1252,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Policy.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Policy.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1264,7 +1264,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Product.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Product.jsx
 FN:9,(anonymous_0)
 FNF:1
 FNH:1
@@ -1276,7 +1276,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Profile.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Profile.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1288,7 +1288,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Support.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Support.jsx
 FN:6,(anonymous_0)
 FN:13,(anonymous_1)
 FN:15,(anonymous_2)
@@ -1319,7 +1319,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/pages/Terms.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/pages/Terms.jsx
 FN:5,(anonymous_0)
 FNF:1
 FNH:1
@@ -1331,7 +1331,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/reducers/app.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/reducers/app.js
 FN:13,(anonymous_0)
 FN:16,(anonymous_1)
 FN:17,(anonymous_2)
@@ -1353,7 +1353,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/reducers/index.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/reducers/index.js
 FNF:0
 FNH:0
 LF:0
@@ -1362,7 +1362,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/reducers/user.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/reducers/user.js
 FN:13,(anonymous_0)
 FN:16,(anonymous_1)
 FN:20,(anonymous_2)
@@ -1384,7 +1384,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/AboutRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/AboutRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1402,7 +1402,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/BlogDetailRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/BlogDetailRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1420,7 +1420,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/BlogRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/BlogRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1438,7 +1438,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/CareerDetailRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/CareerDetailRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1456,7 +1456,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/CareerRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/CareerRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1474,7 +1474,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/HomeRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/HomeRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1492,7 +1492,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/InstitutionsRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/InstitutionsRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1510,7 +1510,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/InvestorRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/InvestorRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1528,7 +1528,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/PolicyRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/PolicyRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1546,7 +1546,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/ProductRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/ProductRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1564,7 +1564,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/ProfileRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/ProfileRoute.jsx
 FN:5,(anonymous_0)
 FN:8,(anonymous_1)
 FNF:2
@@ -1584,7 +1584,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/SupportRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/SupportRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1602,7 +1602,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/routes/TermsRoute.jsx
+SF:/Volumes/Data/Project/aimedis/app/scripts/routes/TermsRoute.jsx
 FN:5,(anonymous_0)
 FN:9,(anonymous_1)
 FNF:2
@@ -1620,7 +1620,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/sagas/index.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/sagas/index.js
 FN:8,root
 FNF:1
 FNH:1
@@ -1632,7 +1632,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/sagas/user.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/sagas/user.js
 FN:14,login
 FN:34,logout
 FN:54,root
@@ -1654,7 +1654,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/store/index.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/store/index.js
 FNF:0
 FNH:0
 DA:12,2
@@ -1669,7 +1669,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:/Volumes/Data/Project/Aimedis/app/scripts/store/middleware.js
+SF:/Volumes/Data/Project/aimedis/app/scripts/store/middleware.js
 FNF:0
 FNH:0
 DA:5,2
